@@ -91,7 +91,6 @@ flowchart LR
 
 ```
 
-![Architecture Diagram](architecture/architecture.png)
 
 ---
 
