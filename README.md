@@ -180,18 +180,18 @@ Each issue was diagnosed using system tools (`ip a`, `udhcpc`, repository checks
 
 ```
 vm-microservice-alpine/
-├── api-service/
+├── backend service/
 │   ├── index.js
 │   ├── package.json
 │   └── package-lock.json
 │   
-├── client-service/
+├── client/
 │   ├── client.js
 │   ├── package.json
 │   └── package-lock.json
 │   
 ├── architecture/
-│   └── architecture.mmd
+│   └── architecture.png
 │   
 └── README.md
 ```
